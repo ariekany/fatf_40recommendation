@@ -1,0 +1,6 @@
+{
+  "name": "FATF 40 Standards Explorer",
+  "description": "Interactive learning platform for the 40 FATF Recommendations (June 2026 edition), featuring 29 Interpretive Notes, interactive regulatory simulations, a standards map, glossary tooltips, and a knowledge assessment arena.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
