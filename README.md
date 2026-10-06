@@ -1,5 +1,7 @@
 # FATF 40 Recommendations — Interactive Reference & Learning Platform
 
+**Live website:** [fatf-40recommendation.vercel.app](https://fatf-40recommendation-5jel4ewg6-kanoys-projects.vercel.app/)
+
 An interactive, bilingual (**English & Bahasa Indonesia**) reference and study platform covering the **Financial Action Task Force (FATF) International Standards on Combating Money Laundering and the Financing of Terrorism & Proliferation** (updated through the **June 2026 Edition**).
 
 Designed for both **newcomers / general learners** and **AML/CFT compliance practitioners, auditors, regulators, and law enforcement officers**, the platform bridges technical regulatory standards with practical illustrations, operational scenarios, and real-world global enforcement case studies.
